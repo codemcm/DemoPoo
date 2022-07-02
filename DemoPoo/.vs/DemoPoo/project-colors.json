@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "556d018f-1b44-43b6-ad70-e9b07f5b7c51": {
+      "ProjectGuid": "556d018f-1b44-43b6-ad70-e9b07f5b7c51",
+      "DisplayName": "Logica",
+      "ColorIndex": 0
+    },
+    "d5d5ec0a-2a3f-4bc7-9367-24829155747a": {
+      "ProjectGuid": "d5d5ec0a-2a3f-4bc7-9367-24829155747a",
+      "DisplayName": "RestPoo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
